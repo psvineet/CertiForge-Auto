@@ -172,11 +172,13 @@ certificates/john_doe.jpg
 
 ---
 
-## Project Structure
+## Required Project Structure
 
 ```
 .
 ├── cg.py
+├── your_file.html
+├── your_template.jpg
 └── README.md
 ```
 
